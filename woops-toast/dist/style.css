@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .main-error-page {
-  min-height: 600px;
+  min-height: 700px;
   margin: 0px auto;
   width: auto;
   max-width: 560px;
@@ -10,7 +10,7 @@
   flex-direction: column;
 }
 .error-title {
-  max-width: 529px; 
+  max-width: 629px; 
   font-family: Roboto;
   font-size: 38px;
   font-weight: bold;
